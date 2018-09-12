@@ -1,0 +1,7 @@
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\obj\Debug\UserInput.csprojResolveAssemblyReference.cache
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\bwilliams\OneDrive\dev-stuff\3.CSHARP-CourseAndProject-Workspace\udemy-csharp-masterclass\challenges\UserInput\UserInput\obj\Debug\UserInput.pdb
